@@ -9,16 +9,16 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devthayssa&bg_color=000000&color=ffffff&line=bc8226&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
-    <a href="https://www.instagram.com/seu_instagram/" target="_blank">
+    <a href="https://www.instagram.com/thayssa_justino/?hl=pt-br" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-bc8226?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+    <a href="https://www.linkedin.com/in/thayssa-rayane-0956161b5/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-bc8226?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.facebook.com/seu_facebook/" target="_blank">
+    <a href="https://www.facebook.com/thayssajustinoo" target="_blank">
         <img src="https://img.shields.io/badge/-Facebook-bc8226?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
-    <a href="https://www.threads.net/seu_threads/" target="_blank">
+    <a href="https://www.threads.net/@thayssa_justino" target="_blank">
         <img src="https://img.shields.io/badge/-Threads-bc8226?style=for-the-badge&logo=threads&logoColor=white"/>
     </a>
 </div>
