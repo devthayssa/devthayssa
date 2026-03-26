@@ -3,32 +3,44 @@
 </p>
 
 <div align="center">
-  <h3>🚀 Software Engineer | Fullstack & Mobile Specialist</h3>
-  <p>Construindo soluções escaláveis com foco em Clean Architecture e Performance.</p>
+  <h3>🚀 Fullstack Developer | Mobile & Backend Specialist</h3>
+  <p>Construindo soluções escaláveis e arquiteturas modernas para produtos de alto impacto.</p>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+Expert+(Flutter);Java+Spring+Backend;See+U+Team+🚀)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ### 📑 Executive Summary
-Desenvolvedora apaixonada por engenharia de software, com foco atual em ecossistema **Mobile (Flutter)** e **Backend (Java/Spring)**. Experiência técnica consolidada em desenvolvimento de aplicações robustas e seguras.
+Desenvolvedora **Fullstack** focada na entrega de software de alta performance e código sustentável. Atualmente, contribuo para o ecossistema da **See U**, atuando no desenvolvimento de funcionalidades de ponta a ponta, desde a experiência mobile até a robustez do backend.
 
-* 🔭 **Atuação:** Mobile Developer na **See U App**.
-* 🛡️ **Segurança:** Mindset focado em DevSecOps (Cisco Certified).
+* 💼 **Atuação Atual:** Fullstack Developer na **See U**.
+* 🏗️ **Foco Técnico:** Clean Architecture, SOLID e UX fluída.
+* 🛡️ **Segurança:** Mindset focado em proteção de dados (Cisco Certified).
 * 🎓 **Educação:** Graduanda em Engenharia de Software.
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Tech Stack & Ecosystem
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Mobile** | `Flutter` `Dart` `Riverpod` `Bloc` |
+| **Backend** | `Java` `Spring Boot` `Python` `Django` `REST APIs` |
+| **Database** | `MySQL` `PostgreSQL` |
+| **DevOps** | `Docker` `Git` `GitHub Actions` `Linux` |
+
+---
+
+### 🚀 Core Technologies (Badges)
 
 <div align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ---
