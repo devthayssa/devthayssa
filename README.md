@@ -4,51 +4,45 @@
 
 <div align="center">
   <h3>🚀 Software Engineer | Fullstack & Mobile Specialist</h3>
+  <p>Construindo soluções escaláveis com foco em Clean Architecture e Performance.</p>
 </div>
 
 ---
 
 ### 📑 Executive Summary
-Desenvolvedora focada na entrega de software de alta performance e código sustentável. Atualmente, aplico conceitos de **Clean Architecture** e **SOLID** no desenvolvimento mobile e backend.
+Desenvolvedora apaixonada por engenharia de software, com foco atual em ecossistema **Mobile (Flutter)** e **Backend (Java/Spring)**. Experiência técnica consolidada em desenvolvimento de aplicações robustas e seguras.
+
+* 🔭 **Atuação:** Mobile Developer na **See U App**.
+* 🛡️ **Segurança:** Mindset focado em DevSecOps (Cisco Certified).
+* 🎓 **Educação:** Graduanda em Engenharia de Software.
 
 ---
 
-### 📊 Engineering Metrics
+### 🛠️ Core Tech Stack
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devthayssa&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=818CF8" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthayssa&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devthayssa&bg_color=0D1117&color=A78BFA&line=818CF8&point=FFFFFF&area=true&hide_border=true" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🌐 Connect & Social
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Mobile** | `Flutter` `Dart` `State Management (Riverpod/Bloc)` |
-| **Backend** | `Java` `Spring Boot` `Python` `REST APIs` |
-| **Database** | `MySQL` `PostgreSQL` |
-| **DevOps** | `Docker` `Git` `GitHub Actions` |
-
----
-
-### 🌐 Connect & Portfolio
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/devthayssa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  </p>
+  <a href="https://www.instagram.com/thayssa_justino/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
