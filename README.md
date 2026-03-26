@@ -1,96 +1,80 @@
-<!-- Header with soft gradient and white text -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=gradient&color[]=e9d5ff&color[]=d8b4fe&color[]=a78bfa&color[]=818cf8&text=Thayssa%20Justino&fontColor=ffffff&fontSize=35&fontAlignY=40"/>
-
-<!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=a78bfa&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thayssa+Justino;From+Maceió,+AL,+Brazil+🇧🇷;Software+Engineering+Student+👩‍💻;Welcome+to+my+GitHub!+🚀)](https://git.io/typing-svg)
-
----
-
-### 👩‍💻 About Me
-
-**Thayssa Justino** — Fullstack Mobile Developer passionate about technology and creative solutions.
-
-🎓 Software Engineering Student & Informatics Technician  
-💼 Intern at **See U App** focused on **Mobile Development (Flutter & Dart)**  
-☕ Java lover, experienced with **Spring Boot**  
-🐍 Exploring modern development with **Python**  
-🛡️ Certified in **Cybersecurity by Cisco**  
-🚀 Committed to **continuous learning**, clean code, and **purposeful technology**  
-🤝 Open to opportunities, collaborations, and new challenges
-
----
-
-### 📊 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=gradient&color[]=121212&color[]=2D1B69&color[]=7C3AED&text=Thayssa%20Rayane&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=twinkling"/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devthayssa&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthayssa&layout=compact&hide_border=true&title_color=818cf8&text_color=ffffff&bg_color=0d1117" />
+  
+  ### 🚀 Software Engineer | Fullstack & Mobile Specialist
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;Mobile+Expert+(Flutter);Java+Spring+Backend;Clean+Code+Enthusiast)](https://git.io/typing-svg)
+
+  ---
+</div>
+
+### 📑 Executive Summary
+
+Desenvolvedora focada na entrega de software de alta performance e código sustentável. Atualmente, aplico conceitos de **Clean Architecture** e **SOLID** no desenvolvimento mobile e backend. Minha abordagem une o rigor técnico da Engenharia de Software com a agilidade necessária para o mercado de startups.
+
+* 🔭 **Atuação Atual:** Mobile Developer na **See U App** (Ecosistema Flutter/Dart).
+* 🏗️ **Arquitetura:** Experiência em microserviços com Java/Spring e arquiteturas modulares no Flutter.
+* 🛡️ **Cybersecurity:** Mindset focado em segurança (Cisco Certified).
+* 🎓 **Acadêmico:** Graduanda em Engenharia de Software.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Mobile** | `Flutter` `Dart` `State Management (Provider/Riverpod/Bloc)` |
+| **Backend** | `Java` `Spring Boot` `Python` `Django` `REST APIs` |
+| **Database** | `MySQL` `PostgreSQL` |
+| **DevOps & Tools** | `Docker` `Git` `GitHub Actions` `Linux` |
+| **Design** | `Figma` (UI/UX Handoff) |
+
+---
+
+### 📊 Engineering Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devthayssa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=818CF8" />
+      </td>
+      <td width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthayssa&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📈 Recent Activity
-
-[![Thayssa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devthayssa&bg_color=0d1117&color=a78bfa&line=818cf8&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🚀 Main Skills
-
-![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=55C2E0)
-![Dart](https://img.shields.io/badge/-Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=a78bfa)
-![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-0d1117?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql)
-![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=figma)
+### 📈 Activity Graph
+<br/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devthayssa&bg_color=0D1117&color=A78BFA&line=818CF8&point=FFFFFF&area=true&hide_border=true" />
+</p>
 
 ---
 
-### 🛠️ Tools
-
-![VS Code](https://img.shields.io/badge/-VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github)
-![Windows](https://img.shields.io/badge/-Windows-0d1117?style=for-the-badge&logo=windows)
-![Office](https://img.shields.io/badge/-Office-0d1117?style=for-the-badge&logo=microsoft-office&logoColor=ea4335)
-![Cisco](https://img.shields.io/badge/-Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-### 📚 Currently Learning
-
-![Angular](https://img.shields.io/badge/-Angular-0d1117?style=for-the-badge&logo=angular&logoColor=dd0031)
-
----
-
-### 🌐 Social Media
+### 🌐 Connect & Collaborate
 
 <div align="center">
-    <a href="https://www.instagram.com/thayssa_justino/?hl=pt-br" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/thayssa-rayane-0956161b5/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-818cf8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://www.facebook.com/thayssajustinoo" target="_blank">
-        <img src="https://img.shields.io/badge/-Facebook-6b21a8?style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a>
-    <a href="https://www.threads.net/@thayssa_justino" target="_blank">
-        <img src="https://img.shields.io/badge/-Threads-0d1117?style=for-the-badge&logo=threads&logoColor=ffffff"/>
-    </a>
+  <a href="https://www.linkedin.com/in/thayssa-rayane-0956161b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@dominio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/thayssa_justino/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
----
-
-### 👀 Visitors Counter
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devthayssa&color=a78bfa&style=for-the-badge&label=VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=devthayssa&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
-<!-- Footer with smooth gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&color[]=818cf8&color[]=a78bfa&color[]=d8b4fe&color[]=e9d5ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=121212&animation=soft"/>
